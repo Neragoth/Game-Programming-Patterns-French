@@ -1,0 +1,11 @@
+---
+title: "Game Programming Patterns - Édition Française"
+creator:
+- role: author
+  text: Robert Nystrom
+- role: translator
+  text: Communauté (Automatisé)
+language: fr
+rights: "Creative Commons Attribution-NonCommercial 4.0 International License"
+description: "Une collection de patterns de conception, de séquençage, comportementaux, de découplage et d'optimisation pour le développement de jeux vidéo."
+...
